@@ -1,0 +1,5 @@
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson2\Task-3_InputAAndB\Task-3_InputAAndB\bin\Debug\Task-3_InputAAndB.exe
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson2\Task-3_InputAAndB\Task-3_InputAAndB\bin\Debug\Task-3_InputAAndB.pdb
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson2\Task-3_InputAAndB\Task-3_InputAAndB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson2\Task-3_InputAAndB\Task-3_InputAAndB\obj\x86\Debug\Task-3_InputAAndB.exe
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson2\Task-3_InputAAndB\Task-3_InputAAndB\obj\x86\Debug\Task-3_InputAAndB.pdb

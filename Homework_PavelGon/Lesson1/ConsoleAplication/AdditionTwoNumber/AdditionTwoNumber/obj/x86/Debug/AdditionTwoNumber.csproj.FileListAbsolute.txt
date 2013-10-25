@@ -1,0 +1,5 @@
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson1\ConsoleAplication\AdditionTwoNumber\AdditionTwoNumber\bin\Debug\AdditionTwoNumber.exe
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson1\ConsoleAplication\AdditionTwoNumber\AdditionTwoNumber\bin\Debug\AdditionTwoNumber.pdb
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson1\ConsoleAplication\AdditionTwoNumber\AdditionTwoNumber\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson1\ConsoleAplication\AdditionTwoNumber\AdditionTwoNumber\obj\x86\Debug\AdditionTwoNumber.exe
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson1\ConsoleAplication\AdditionTwoNumber\AdditionTwoNumber\obj\x86\Debug\AdditionTwoNumber.pdb

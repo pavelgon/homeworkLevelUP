@@ -1,0 +1,5 @@
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson2\SquareInRectangle\SquareInRectangle\bin\Debug\SquareInRectangle.exe
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson2\SquareInRectangle\SquareInRectangle\bin\Debug\SquareInRectangle.pdb
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson2\SquareInRectangle\SquareInRectangle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson2\SquareInRectangle\SquareInRectangle\obj\x86\Debug\SquareInRectangle.exe
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson2\SquareInRectangle\SquareInRectangle\obj\x86\Debug\SquareInRectangle.pdb
