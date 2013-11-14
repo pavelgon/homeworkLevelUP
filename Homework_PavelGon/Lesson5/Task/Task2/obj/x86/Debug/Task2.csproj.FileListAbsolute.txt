@@ -1,0 +1,10 @@
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task2\bin\Debug\Task2.exe
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task2\bin\Debug\Task2.pdb
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task2\obj\x86\Debug\Task2.exe
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task2\obj\x86\Debug\Task2.pdb
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task\Task2\bin\Debug\Task2.exe
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task\Task2\bin\Debug\Task2.pdb
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task\Task2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task\Task2\obj\x86\Debug\Task2.exe
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task\Task2\obj\x86\Debug\Task2.pdb

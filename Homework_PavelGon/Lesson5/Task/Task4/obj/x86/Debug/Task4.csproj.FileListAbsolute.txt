@@ -1,0 +1,15 @@
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task5\Task4\bin\Debug\Task4.exe
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task5\Task4\bin\Debug\Task4.pdb
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task5\Task4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task5\Task4\obj\x86\Debug\Task4.exe
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task5\Task4\obj\x86\Debug\Task4.pdb
+E:\Диск\LevelUP\HomeWork\Lesson5\Task5\Task4\bin\Debug\Task4.exe
+E:\Диск\LevelUP\HomeWork\Lesson5\Task5\Task4\bin\Debug\Task4.pdb
+E:\Диск\LevelUP\HomeWork\Lesson5\Task5\Task4\obj\x86\Debug\Task4.csprojResolveAssemblyReference.cache
+E:\Диск\LevelUP\HomeWork\Lesson5\Task5\Task4\obj\x86\Debug\Task4.exe
+E:\Диск\LevelUP\HomeWork\Lesson5\Task5\Task4\obj\x86\Debug\Task4.pdb
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task\Task4\bin\Debug\Task4.exe
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task\Task4\bin\Debug\Task4.pdb
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task\Task4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task\Task4\obj\x86\Debug\Task4.exe
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task\Task4\obj\x86\Debug\Task4.pdb

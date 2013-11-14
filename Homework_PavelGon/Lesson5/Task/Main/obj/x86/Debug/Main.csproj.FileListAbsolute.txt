@@ -1,0 +1,35 @@
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task5\Main\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Диск\LevelUP\HomeWork\Lesson5\Task5\Main\bin\Debug\Main.exe
+E:\Диск\LevelUP\HomeWork\Lesson5\Task5\Main\bin\Debug\Main.pdb
+E:\Диск\LevelUP\HomeWork\Lesson5\Task5\Main\obj\x86\Debug\Main.exe
+E:\Диск\LevelUP\HomeWork\Lesson5\Task5\Main\obj\x86\Debug\Main.pdb
+E:\Диск\LevelUP\HomeWork\Lesson5\Task5\Main\bin\Debug\ConsoleApplication1.exe
+E:\Диск\LevelUP\HomeWork\Lesson5\Task5\Main\bin\Debug\Task2.exe
+E:\Диск\LevelUP\HomeWork\Lesson5\Task5\Main\bin\Debug\Task3.exe
+E:\Диск\LevelUP\HomeWork\Lesson5\Task5\Main\bin\Debug\Task4.exe
+E:\Диск\LevelUP\HomeWork\Lesson5\Task5\Main\bin\Debug\Task5.exe
+E:\Диск\LevelUP\HomeWork\Lesson5\Task5\Main\bin\Debug\Task6.exe
+E:\Диск\LevelUP\HomeWork\Lesson5\Task5\Main\bin\Debug\Task2.pdb
+E:\Диск\LevelUP\HomeWork\Lesson5\Task5\Main\bin\Debug\ConsoleApplication1.pdb
+E:\Диск\LevelUP\HomeWork\Lesson5\Task5\Main\bin\Debug\Task3.pdb
+E:\Диск\LevelUP\HomeWork\Lesson5\Task5\Main\bin\Debug\Task4.pdb
+E:\Диск\LevelUP\HomeWork\Lesson5\Task5\Main\bin\Debug\Task5.pdb
+E:\Диск\LevelUP\HomeWork\Lesson5\Task5\Main\bin\Debug\Task6.pdb
+E:\Диск\LevelUP\HomeWork\Lesson5\Task5\Main\obj\x86\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task\Main\obj\x86\Debug\Main.exe
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task\Main\obj\x86\Debug\Main.pdb
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task\Main\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task\Main\bin\Debug\Main.exe
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task\Main\bin\Debug\Main.pdb
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task\Main\bin\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task\Main\bin\Debug\Task2.exe
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task\Main\bin\Debug\Task3.exe
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task\Main\bin\Debug\Task4.exe
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task\Main\bin\Debug\Task5.exe
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task\Main\bin\Debug\Task6.exe
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task\Main\bin\Debug\Task2.pdb
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task\Main\bin\Debug\Task3.pdb
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task\Main\bin\Debug\Task4.pdb
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task\Main\bin\Debug\Task5.pdb
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task\Main\bin\Debug\Task6.pdb
+C:\Documents and Settings\Paul\Мои документы\Google Диск\LevelUP\HomeWork\Lesson5\Task\Main\bin\Debug\ConsoleApplication1.pdb
